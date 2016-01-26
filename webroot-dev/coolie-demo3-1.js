@@ -1,0 +1,1 @@
+window.hello = 'coolie-demo3';
