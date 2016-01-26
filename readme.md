@@ -2,4 +2,4 @@
 
 build js combine
 
-visit <https://coolie.ydr.me/guide/coolie-demo3/>
+visit <https://coolie.ydr.me/guide/build-js-combine/>
